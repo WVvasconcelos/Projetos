@@ -1,0 +1,55 @@
+body{
+    color: rgb(251, 255, 0) ;
+    text-align: center;
+   margin-top: 100px;
+}
+.img{
+    background-image: url("../img/105975.jpg");
+}
+button{
+    border-radius: 40px;
+    text-align: center;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 16px;
+    width: 200px;
+    height: 50px;
+    margin-left: 50px;
+    box-shadow: 10px;
+    background-color: 	#CFB53B;
+    border-color: blueviolet;
+    border-width: 4px;
+}
+
+.jogo button{
+    border-radius: 40px;
+    text-align: center;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 16px;
+    width: 50px;
+    height: 50px;
+    margin-left: 50px;
+    box-shadow: 10px;
+    background-color: 	#CFB53B;
+    border-color: blueviolet;
+    border-width: 4px;
+}
+
+.resultado{
+    background-color: cornsilk;
+    margin-bottom: 100px;
+    margin-top: 100px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    border: 5px solid;
+    border-color: blueviolet;
+    width: 100px;
+    height: 100px;
+}
+p{
+    color: black;
+    text-align: center;
+    font-size: 34px;
+}
